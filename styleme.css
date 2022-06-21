@@ -1,0 +1,32 @@
+*{
+    background-color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 0.3em;
+}
+
+.importantWords{
+    font-weight: bolder;
+    color: red;
+}
+
+.title{
+    color:darkcyan;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder ;
+    font-size:xx-large;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+p::first-letter{
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+}
