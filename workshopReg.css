@@ -37,5 +37,28 @@ div>label{
     padding-top: 1.5%;
     float: left ;
     width: 50%;
-    
+}
+
+
+footer{
+
+    display: block;
+    background-color: grey;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+}
+
+.btn{
+    color: white;
+    background-color: cadetblue;
+    border-radius: 0%;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+input[type=checkbox] {
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
 }
