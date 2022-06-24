@@ -1,0 +1,41 @@
+body{
+    margin-top: 0%;
+}
+.flex-container {
+    display: flex;
+    background-color:cadetblue;
+    padding-left: 2em;
+}
+
+.flex-container>div{
+    margin-right: 3em;
+}
+.subTitle{
+    text-decoration: underline ;
+    margin-left: 3%;
+}
+
+.required{
+    color: red;
+}
+
+#addressLabel{
+    vertical-align: top;
+}
+
+div>label{
+    font-weight: bold;
+    margin-right: 13%;
+    margin-left: 3%;
+}
+
+#leftCol{
+    float: left ;
+    width: 50%;
+}
+#rightCol{
+    padding-top: 1.5%;
+    float: left ;
+    width: 50%;
+    
+}
