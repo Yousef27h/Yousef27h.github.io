@@ -1,3 +1,4 @@
+"use strict";
 function sum(nums) {
     return nums
         .filter(num => num > 20)
