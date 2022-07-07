@@ -4,4 +4,9 @@ body{
     color: white;
     font-size: larger;
     font-weight: bolder;
+    text-align: center;
+}
+
+h1{
+    margin-top: 25%;
 }
